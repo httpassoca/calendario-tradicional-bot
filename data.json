@@ -1,0 +1,1832 @@
+{
+  "2024-01-01T00:00:00.000Z": {
+    "day": "2024-01-01T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia Santo de Guarda\nA Circuncisão de NSJC"
+  },
+  "2024-01-02T00:00:00.000Z": {
+    "day": "2024-01-02T00:00:00.000Z",
+    "color": "Branco",
+    "info": "O Santíssimo Nome de Jesus\n(Oitava de Santo Estevão, o primeiro mártir)"
+  },
+  "2024-01-03T00:00:00.000Z": {
+    "day": "2024-01-03T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Oitava de São João, Apóstolo e Evangelista"
+  },
+  "2024-01-04T00:00:00.000Z": {
+    "day": "2024-01-04T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Oitava dos Santos Inocentes, Mártires"
+  },
+  "2024-01-05T00:00:00.000Z": {
+    "day": "2024-01-05T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeira Sexta-feira\nAbstinência\nVigília da Epifania \n(São Telésforo, Papa e Mártir)"
+  },
+  "2024-01-06T00:00:00.000Z": {
+    "day": "2024-01-06T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeiro Sábado\nEpifania de Nosso Senhor"
+  },
+  "2024-01-07T00:00:00.000Z": {
+    "day": "2024-01-07T00:00:00.000Z",
+    "color": "Branco",
+    "info": "A Sagrada Família: Jesus Maria e José \n(Na Oitava)"
+  },
+  "2024-01-08T00:00:00.000Z": {
+    "day": "2024-01-08T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-01-09T00:00:00.000Z": {
+    "day": "2024-01-09T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-01-10T00:00:00.000Z": {
+    "day": "2024-01-10T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-01-11T00:00:00.000Z": {
+    "day": "2024-01-11T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava \n(Santo Higino, Papa e Mártir)"
+  },
+  "2024-01-12T00:00:00.000Z": {
+    "day": "2024-01-12T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nNa Oitava"
+  },
+  "2024-01-13T00:00:00.000Z": {
+    "day": "2024-01-13T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Oitava da Epifania de Nosso Senhor"
+  },
+  "2024-01-14T00:00:00.000Z": {
+    "day": "2024-01-14T00:00:00.000Z",
+    "color": "Verde",
+    "info": "II Domingo depois de Epifania \n(Santo Hilário, BCD) \n(São Félix de Noia, sacerdote, Mártir)"
+  },
+  "2024-01-15T00:00:00.000Z": {
+    "day": "2024-01-15T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Paulo, o primeiro eremita, Confessor \n(São Mauro, Abade)"
+  },
+  "2024-01-16T00:00:00.000Z": {
+    "day": "2024-01-16T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Marcelo I, Papa e Mártir"
+  },
+  "2024-01-17T00:00:00.000Z": {
+    "day": "2024-01-17T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santo Antão, Abade"
+  },
+  "2024-01-18T00:00:00.000Z": {
+    "day": "2024-01-18T00:00:00.000Z",
+    "color": "Branco",
+    "info": "A Cátedra de São Pedro em Roma \n(Santa Prisca, Virgem e Mártir) \n(São Paulo, Apóstolo)"
+  },
+  "2024-01-19T00:00:00.000Z": {
+    "day": "2024-01-19T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Abstinência\nSão Mário e comp., Mártires \n(São Canuto IV, Rei da Dinamarca, Mártir)"
+  },
+  "2024-01-20T00:00:00.000Z": {
+    "day": "2024-01-20T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santos. Fabiano, Papa, e Sebastião, Mártires"
+  },
+  "2024-01-21T00:00:00.000Z": {
+    "day": "2024-01-21T00:00:00.000Z",
+    "color": "Verde",
+    "info": "III Domingo depois de Epifania \n(Santa Inês, Virgem e Mártir)"
+  },
+  "2024-01-22T00:00:00.000Z": {
+    "day": "2024-01-22T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santos. Vicente e Anastásio, Mártires"
+  },
+  "2024-01-23T00:00:00.000Z": {
+    "day": "2024-01-23T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Raimundo de Penaforte, Confessor \n(Santa Emerenciana, Virgem e Mártir)"
+  },
+  "2024-01-24T00:00:00.000Z": {
+    "day": "2024-01-24T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Timóteo, Bispo e Mártir"
+  },
+  "2024-01-25T00:00:00.000Z": {
+    "day": "2024-01-25T00:00:00.000Z",
+    "color": "Branco",
+    "info": "A Conversão de São Paulo, Apóstolo \n(Comemoração de São Pedro, Apóstolo)"
+  },
+  "2024-01-26T00:00:00.000Z": {
+    "day": "2024-01-26T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Abstinência\nSão Policarpo, Bispo e Mártir"
+  },
+  "2024-01-27T00:00:00.000Z": {
+    "day": "2024-01-27T00:00:00.000Z",
+    "color": "Verde",
+    "info": "IV Domingo depois de Epifania [antecipado] \n(São João Crisóstomo, BCD)"
+  },
+  "2024-01-28T00:00:00.000Z": {
+    "day": "2024-01-28T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Domingo de Septuagésima \n(São Pedro Nolasco, Confessor) \n(Santa Inês pela segunda vez, Virgem e Mártir)"
+  },
+  "2024-01-29T00:00:00.000Z": {
+    "day": "2024-01-29T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Francisco de Sales, BCD"
+  },
+  "2024-01-30T00:00:00.000Z": {
+    "day": "2024-01-30T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santa Martina, Virgem e Mártir"
+  },
+  "2024-01-31T00:00:00.000Z": {
+    "day": "2024-01-31T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São João Bosco, Confessor"
+  },
+  "2024-02-01T00:00:00.000Z": {
+    "day": "2024-02-01T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santo Inácio, Bispo e Mártir"
+  },
+  "2024-02-02T00:00:00.000Z": {
+    "day": "2024-02-02T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeira Sexta-feira\nAbstinência\nA Purificação da Santíssima Virgem Maria"
+  },
+  "2024-02-03T00:00:00.000Z": {
+    "day": "2024-02-03T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeiro Sábado\nSábado de Nossa Senhora \n(São Brás de Sebaste, Bispo e Mártir)"
+  },
+  "2024-02-04T00:00:00.000Z": {
+    "day": "2024-02-04T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Domingo de Sexagésima \n(Santo André Corsini, BC)"
+  },
+  "2024-02-05T00:00:00.000Z": {
+    "day": "2024-02-05T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santa Ágata de Catânia, Virgem e Mártir"
+  },
+  "2024-02-06T00:00:00.000Z": {
+    "day": "2024-02-06T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Tito, BC \n(Santa Doroteia, Virgem e Mártir)"
+  },
+  "2024-02-07T00:00:00.000Z": {
+    "day": "2024-02-07T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Romualdo, Abade"
+  },
+  "2024-02-08T00:00:00.000Z": {
+    "day": "2024-02-08T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São João da Mata, Confessor"
+  },
+  "2024-02-09T00:00:00.000Z": {
+    "day": "2024-02-09T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSão Cirilo de Alexandria, BCD \n(Santa Apolónia, Virgem e Mártir)"
+  },
+  "2024-02-10T00:00:00.000Z": {
+    "day": "2024-02-10T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Escolástica de Núrsia, Virgem"
+  },
+  "2024-02-11T00:00:00.000Z": {
+    "day": "2024-02-11T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Domingo de Quinquagésima (A Aparição de Nossa Senhora de Lurdes)"
+  },
+  "2024-02-12T00:00:00.000Z": {
+    "day": "2024-02-12T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Os Sete Santos Fundadores dos Servitas, Confessores"
+  },
+  "2024-02-13T00:00:00.000Z": {
+    "day": "2024-02-13T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia Ferial"
+  },
+  "2024-02-14T00:00:00.000Z": {
+    "day": "2024-02-14T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nAbstinência\nQuarta-feira de Cinzas \n(São Valentim, sacerdote, Mártir)"
+  },
+  "2024-02-15T00:00:00.000Z": {
+    "day": "2024-02-15T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Dia de Jejum\nSantos Faustino e Jovita, Mártires \n(Dia Ferial)"
+  },
+  "2024-02-16T00:00:00.000Z": {
+    "day": "2024-02-16T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nAbstinência\nDia Ferial"
+  },
+  "2024-02-17T00:00:00.000Z": {
+    "day": "2024-02-17T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nAbstinência\nDia Ferial"
+  },
+  "2024-02-18T00:00:00.000Z": {
+    "day": "2024-02-18T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "I Domingo de Quaresma \n(São Simeão, Bispo e Mártir)"
+  },
+  "2024-02-19T00:00:00.000Z": {
+    "day": "2024-02-19T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nDia Ferial"
+  },
+  "2024-02-20T00:00:00.000Z": {
+    "day": "2024-02-20T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nDia Ferial"
+  },
+  "2024-02-21T00:00:00.000Z": {
+    "day": "2024-02-21T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nAbstinência\nQuarta de Têmporas\nDia Ferial"
+  },
+  "2024-02-22T00:00:00.000Z": {
+    "day": "2024-02-22T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nA Cátedra de São Pedro em Antioquia, Apóstolo \n(A Comemoração de São Paulo, Apóstolo)"
+  },
+  "2024-02-23T00:00:00.000Z": {
+    "day": "2024-02-23T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nAbstinência\nSexta de Têmporas\nSão Pedro Damião, BCD"
+  },
+  "2024-02-24T00:00:00.000Z": {
+    "day": "2024-02-24T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nAbstinência\nSábado de Têmporas\nDia Ferial \n(Vigília de São Matias)"
+  },
+  "2024-02-25T00:00:00.000Z": {
+    "day": "2024-02-25T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "II Domingo de Quaresma"
+  },
+  "2024-02-26T00:00:00.000Z": {
+    "day": "2024-02-26T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Dia de Jejum\nSão Matias, Apóstolo"
+  },
+  "2024-02-27T00:00:00.000Z": {
+    "day": "2024-02-27T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nDia Ferial"
+  },
+  "2024-02-28T00:00:00.000Z": {
+    "day": "2024-02-28T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nSão Gabriel da Dolorosa, Confessor"
+  },
+  "2024-02-29T00:00:00.000Z": {
+    "day": "2024-02-29T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nDia Ferial"
+  },
+  "2024-03-01T00:00:00.000Z": {
+    "day": "2024-03-01T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Primeira Sexta-feira\nAbstinência\nDia de Jejum\nDia Ferial"
+  },
+  "2024-03-02T00:00:00.000Z": {
+    "day": "2024-03-02T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Primeiro Sábado\nAbstinência\nDia de Jejum\nDia Ferial"
+  },
+  "2024-03-03T00:00:00.000Z": {
+    "day": "2024-03-03T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "III Domingo de Quaresma"
+  },
+  "2024-03-04T00:00:00.000Z": {
+    "day": "2024-03-04T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nSão Casimiro, Confessor \n(São Lúcio I, Papa e Mártir)"
+  },
+  "2024-03-05T00:00:00.000Z": {
+    "day": "2024-03-05T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nDia Ferial"
+  },
+  "2024-03-06T00:00:00.000Z": {
+    "day": "2024-03-06T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Dia de Jejum\nSantos. Perpétua e Felicidade, Mártires"
+  },
+  "2024-03-07T00:00:00.000Z": {
+    "day": "2024-03-07T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nSão Tomás de Aquino, CD"
+  },
+  "2024-03-08T00:00:00.000Z": {
+    "day": "2024-03-08T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nAbstinência\nSão João de Deus, Confessor"
+  },
+  "2024-03-09T00:00:00.000Z": {
+    "day": "2024-03-09T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nAbstinência\nSanta Francisca Romana, Viúva"
+  },
+  "2024-03-10T00:00:00.000Z": {
+    "day": "2024-03-10T00:00:00.000Z",
+    "color": "Roxo (Rosa)",
+    "info": "IV Domingo de Quaresma \n(Os Quarenta Santos Mártires) \n(Domingo de Laetare)"
+  },
+  "2024-03-11T00:00:00.000Z": {
+    "day": "2024-03-11T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nDia Ferial"
+  },
+  "2024-03-12T00:00:00.000Z": {
+    "day": "2024-03-12T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nSão Gregório Magno, PCD"
+  },
+  "2024-03-13T00:00:00.000Z": {
+    "day": "2024-03-13T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nDia Ferial"
+  },
+  "2024-03-14T00:00:00.000Z": {
+    "day": "2024-03-14T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nDia Ferial"
+  },
+  "2024-03-15T00:00:00.000Z": {
+    "day": "2024-03-15T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nAbstinência\nDia Ferial"
+  },
+  "2024-03-16T00:00:00.000Z": {
+    "day": "2024-03-16T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nAbstinência\nDia Ferial"
+  },
+  "2024-03-17T00:00:00.000Z": {
+    "day": "2024-03-17T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Domingo de Paixão \n(São Patrício, BC)"
+  },
+  "2024-03-18T00:00:00.000Z": {
+    "day": "2024-03-18T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nSão Cirílo de Jerusalém, BCD"
+  },
+  "2024-03-19T00:00:00.000Z": {
+    "day": "2024-03-19T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nSão José, esposo da Santa Virgem Maria, Confessor"
+  },
+  "2024-03-20T00:00:00.000Z": {
+    "day": "2024-03-20T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nDia Ferial"
+  },
+  "2024-03-21T00:00:00.000Z": {
+    "day": "2024-03-21T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nSão Bento de Núrsia, Abade"
+  },
+  "2024-03-22T00:00:00.000Z": {
+    "day": "2024-03-22T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nAbstinência\nAs Sete Dores da Santa Virgem Maria \n(Santo Isidoro o Lavrador, Confessor)"
+  },
+  "2024-03-23T00:00:00.000Z": {
+    "day": "2024-03-23T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nAbstinência\nDia Ferial"
+  },
+  "2024-03-24T00:00:00.000Z": {
+    "day": "2024-03-24T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Domingo de Ramos"
+  },
+  "2024-03-25T00:00:00.000Z": {
+    "day": "2024-03-25T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nSegunda-feira Santa"
+  },
+  "2024-03-26T00:00:00.000Z": {
+    "day": "2024-03-26T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nTerça-feira Santa"
+  },
+  "2024-03-27T00:00:00.000Z": {
+    "day": "2024-03-27T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nQuarta-feira Santa \n(São João Damasceno, CD)"
+  },
+  "2024-03-28T00:00:00.000Z": {
+    "day": "2024-03-28T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nQuinta-feira Santa"
+  },
+  "2024-03-29T00:00:00.000Z": {
+    "day": "2024-03-29T00:00:00.000Z",
+    "color": "Negro",
+    "info": "Portugal: Dia Santo de Guarda\nAbstinência\nDia de Jejum\nSexta-feira Santa"
+  },
+  "2024-03-30T00:00:00.000Z": {
+    "day": "2024-03-30T00:00:00.000Z",
+    "color": "Roxo Branco",
+    "info": "Dia de Jejum\nAbstinência\nSábado Santo"
+  },
+  "2024-03-31T00:00:00.000Z": {
+    "day": "2024-03-31T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Páscoa de Ressurreição"
+  },
+  "2024-04-01T00:00:00.000Z": {
+    "day": "2024-04-01T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Portugal: Dia Santo de Guarda\nSegunda-feira de Páscoa"
+  },
+  "2024-04-02T00:00:00.000Z": {
+    "day": "2024-04-02T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Terça-feira de Páscoa"
+  },
+  "2024-04-03T00:00:00.000Z": {
+    "day": "2024-04-03T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Quarta-feira de Páscoa"
+  },
+  "2024-04-04T00:00:00.000Z": {
+    "day": "2024-04-04T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Quinta-feira de Páscoa \n(Santo Isidoro, BCD)"
+  },
+  "2024-04-05T00:00:00.000Z": {
+    "day": "2024-04-05T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeira Sexta-feira\nAbstinência\nSexta-feira de Páscoa \n(São Vicente Ferrer, Confessor)"
+  },
+  "2024-04-06T00:00:00.000Z": {
+    "day": "2024-04-06T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeiro Sábado\nSábado de Páscoa"
+  },
+  "2024-04-07T00:00:00.000Z": {
+    "day": "2024-04-07T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Domingo em Albis \n(I Domingo depois de Páscoa)"
+  },
+  "2024-04-08T00:00:00.000Z": {
+    "day": "2024-04-08T00:00:00.000Z",
+    "color": "Branco",
+    "info": "A Anunciação da Santíssima Virgem Maria"
+  },
+  "2024-04-09T00:00:00.000Z": {
+    "day": "2024-04-09T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia Ferial"
+  },
+  "2024-04-10T00:00:00.000Z": {
+    "day": "2024-04-10T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia Ferial"
+  },
+  "2024-04-11T00:00:00.000Z": {
+    "day": "2024-04-11T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Leão Magno, PCD"
+  },
+  "2024-04-12T00:00:00.000Z": {
+    "day": "2024-04-12T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\n\nDia Ferial"
+  },
+  "2024-04-13T00:00:00.000Z": {
+    "day": "2024-04-13T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santo Hermenegildo, Mártir"
+  },
+  "2024-04-14T00:00:00.000Z": {
+    "day": "2024-04-14T00:00:00.000Z",
+    "color": "Branco",
+    "info": "II Domingo depois de Páscoa \n(São Justino, Mártir) \n(Santos. Tibúrcio, Valeriano e Maximino, Mártires)"
+  },
+  "2024-04-15T00:00:00.000Z": {
+    "day": "2024-04-15T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia Ferial"
+  },
+  "2024-04-16T00:00:00.000Z": {
+    "day": "2024-04-16T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia Ferial"
+  },
+  "2024-04-17T00:00:00.000Z": {
+    "day": "2024-04-17T00:00:00.000Z",
+    "color": "Branco",
+    "info": "A Solenidade de São José, esposo da Santa Virgem Maria, Confessor"
+  },
+  "2024-04-18T00:00:00.000Z": {
+    "day": "2024-04-18T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-04-19T00:00:00.000Z": {
+    "day": "2024-04-19T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nNa Oitava"
+  },
+  "2024-04-20T00:00:00.000Z": {
+    "day": "2024-04-20T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-04-21T00:00:00.000Z": {
+    "day": "2024-04-21T00:00:00.000Z",
+    "color": "Branco",
+    "info": "III Domingo depois de Páscoa \n(Santo Anselmo, BCD) \n(Na Oitava)"
+  },
+  "2024-04-22T00:00:00.000Z": {
+    "day": "2024-04-22T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santos. Sotero e Caio, PpMm \n(Na Oitava)"
+  },
+  "2024-04-23T00:00:00.000Z": {
+    "day": "2024-04-23T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Jorge de Capadócia, Mártir \n(Na Oitava)"
+  },
+  "2024-04-24T00:00:00.000Z": {
+    "day": "2024-04-24T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Oitava da Solenidade de São José, esposo da Santa Virgem Maria, Confessor \n(São Fidel de Sigmaringa, Mártir)"
+  },
+  "2024-04-25T00:00:00.000Z": {
+    "day": "2024-04-25T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Marcos, Evangelista"
+  },
+  "2024-04-26T00:00:00.000Z": {
+    "day": "2024-04-26T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Abstinência\nSantos. Anacleto e Marcelino, PpMm"
+  },
+  "2024-04-27T00:00:00.000Z": {
+    "day": "2024-04-27T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Pedro Canísio, CD"
+  },
+  "2024-04-28T00:00:00.000Z": {
+    "day": "2024-04-28T00:00:00.000Z",
+    "color": "Branco",
+    "info": "IV Domingo depois de Páscoa \n(São Paulo da Cruz, Confessor) \n(São Vital, Mártir)"
+  },
+  "2024-04-29T00:00:00.000Z": {
+    "day": "2024-04-29T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Pedro de Verona, Mártir"
+  },
+  "2024-04-30T00:00:00.000Z": {
+    "day": "2024-04-30T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Catarina de Siena, Virgem"
+  },
+  "2024-05-01T00:00:00.000Z": {
+    "day": "2024-05-01T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Os Santos Apóstolos Filipe e Tiago"
+  },
+  "2024-05-02T00:00:00.000Z": {
+    "day": "2024-05-02T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santo Atanásio de Alexandria, BCD"
+  },
+  "2024-05-03T00:00:00.000Z": {
+    "day": "2024-05-03T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Primeira Sexta-feira\nAbstinência\nO Encontro da Santa Cruz \n(Santo Alexandre I, Papa, e comp., Mártires)"
+  },
+  "2024-05-04T00:00:00.000Z": {
+    "day": "2024-05-04T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeiro Sábado\nSanta Mónica de Hipona, Viúva"
+  },
+  "2024-05-05T00:00:00.000Z": {
+    "day": "2024-05-05T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Virgem Domingo depois de Páscoa \n(São Pio Virgem, PC)"
+  },
+  "2024-05-06T00:00:00.000Z": {
+    "day": "2024-05-06T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Rogativas São João diante da Porta Latina, Apóstolo e Evangelista"
+  },
+  "2024-05-07T00:00:00.000Z": {
+    "day": "2024-05-07T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Rogativas Santo Estanislau, Bispo e Mártir"
+  },
+  "2024-05-08T00:00:00.000Z": {
+    "day": "2024-05-08T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Rogativas A Aparição de São Miguel Arcanjo \n(Vigília da Ascensão de NSJC)"
+  },
+  "2024-05-09T00:00:00.000Z": {
+    "day": "2024-05-09T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Ascensão de NSJC"
+  },
+  "2024-05-10T00:00:00.000Z": {
+    "day": "2024-05-10T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSanto Antonino, BC \n(Na Oitava) \n(Santos. Gordiano e Epímaco, Mártires)"
+  },
+  "2024-05-11T00:00:00.000Z": {
+    "day": "2024-05-11T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-05-12T00:00:00.000Z": {
+    "day": "2024-05-12T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Domingo na Oitava da Ascensão de NSJC \n(São Nereu e comp., Mártires)"
+  },
+  "2024-05-13T00:00:00.000Z": {
+    "day": "2024-05-13T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Roberto Belarmino, BCD \n(Na Oitava)"
+  },
+  "2024-05-14T00:00:00.000Z": {
+    "day": "2024-05-14T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava \n(São Bonifácio de Tarso, Mártir)"
+  },
+  "2024-05-15T00:00:00.000Z": {
+    "day": "2024-05-15T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São João Baptista de La Salle, Confessor \n(Na Oitava)"
+  },
+  "2024-05-16T00:00:00.000Z": {
+    "day": "2024-05-16T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Oitava da Ascensão de NSJC \n(Santo Ubaldo, BC)"
+  },
+  "2024-05-17T00:00:00.000Z": {
+    "day": "2024-05-17T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSão Pascoal Bailão, Confessor"
+  },
+  "2024-05-18T00:00:00.000Z": {
+    "day": "2024-05-18T00:00:00.000Z",
+    "color": "Roxo Vermelho",
+    "info": "Dia de Jejum\nAbstinência\nVigília de Pentecostes \n(São Venâncio de Camerino, Mártir)"
+  },
+  "2024-05-19T00:00:00.000Z": {
+    "day": "2024-05-19T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Domingo de Pentecostes"
+  },
+  "2024-05-20T00:00:00.000Z": {
+    "day": "2024-05-20T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Segunda-feira de Pentecostes"
+  },
+  "2024-05-21T00:00:00.000Z": {
+    "day": "2024-05-21T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Terça-feira de Pentecostes"
+  },
+  "2024-05-22T00:00:00.000Z": {
+    "day": "2024-05-22T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Dia de Jejum\nAbstinência\nQuarta de Têmporas\nQuarta-feira de Pentecostes"
+  },
+  "2024-05-23T00:00:00.000Z": {
+    "day": "2024-05-23T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Quinta-feira de Pentecostes"
+  },
+  "2024-05-24T00:00:00.000Z": {
+    "day": "2024-05-24T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Dia de Jejum\nAbstinência\nSexta de Têmporas\nSexta-feira de Pentecostes"
+  },
+  "2024-05-25T00:00:00.000Z": {
+    "day": "2024-05-25T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Dia de Jejum\nAbstinência\nSábado de Têmporas\nSábado de Pentecostes \n(São Gregório VII, PC) \n(Santo Urbano I, Papa e Mártir)"
+  },
+  "2024-05-26T00:00:00.000Z": {
+    "day": "2024-05-26T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Domingo da Santíssima Trindade \n(São Filipe Neri, Confessor)\n(I Domingo depois de Pentecostes)"
+  },
+  "2024-05-27T00:00:00.000Z": {
+    "day": "2024-05-27T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Beda, o venerável, CD \n(São João I, Papa e Mártir)"
+  },
+  "2024-05-28T00:00:00.000Z": {
+    "day": "2024-05-28T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santo Agostinho de Canterbúria, BC"
+  },
+  "2024-05-29T00:00:00.000Z": {
+    "day": "2024-05-29T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Maria Madalena de Pazzi, Virgem"
+  },
+  "2024-05-30T00:00:00.000Z": {
+    "day": "2024-05-30T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia Santo de Guarda\nCorpus Christi"
+  },
+  "2024-05-31T00:00:00.000Z": {
+    "day": "2024-05-31T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nNa Oitava \n(Santa Petronila, Virgem)"
+  },
+  "2024-06-01T00:00:00.000Z": {
+    "day": "2024-06-01T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeiro Sábado\nNa Oitava \n(Santa Ângela Merícia, Virgem)"
+  },
+  "2024-06-02T00:00:00.000Z": {
+    "day": "2024-06-02T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Domingo na Oitava de Corpus Christi (II Domingo depois de Pentecostes) \n(São Marcelino e comp., Mártires)"
+  },
+  "2024-06-03T00:00:00.000Z": {
+    "day": "2024-06-03T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-06-04T00:00:00.000Z": {
+    "day": "2024-06-04T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava \n(São Francisco Caracciolo, Confessor)"
+  },
+  "2024-06-05T00:00:00.000Z": {
+    "day": "2024-06-05T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava (São Bonifácio de Mogúncia, Bispo e Mártir)"
+  },
+  "2024-06-06T00:00:00.000Z": {
+    "day": "2024-06-06T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Oitava de Corpus Christi \n(São Norberto de Xanten, BC)"
+  },
+  "2024-06-07T00:00:00.000Z": {
+    "day": "2024-06-07T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeira Sexta-feira\nAbstinência\nSagrado Coração de Jesus"
+  },
+  "2024-06-08T00:00:00.000Z": {
+    "day": "2024-06-08T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Sma. Virgem Maria Rainha [de 31 de Maio] \n(Na Oitava)"
+  },
+  "2024-06-09T00:00:00.000Z": {
+    "day": "2024-06-09T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Domingo na Oitava do Sagrado Coração de Jesus \n(III Domingo depois de Pentecostes) \n(Santos. Primo e Feliciano, Mártires)"
+  },
+  "2024-06-10T00:00:00.000Z": {
+    "day": "2024-06-10T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Margarida, Rainha da Escócia, Viúva \n(Na Oitava)"
+  },
+  "2024-06-11T00:00:00.000Z": {
+    "day": "2024-06-11T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Barnabé, Apóstolo \n(Na Oitava)"
+  },
+  "2024-06-12T00:00:00.000Z": {
+    "day": "2024-06-12T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São João de Sahagún, Confessor \n(Na Oitava) \n(São Basílides e comp., Mártires)"
+  },
+  "2024-06-13T00:00:00.000Z": {
+    "day": "2024-06-13T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santo António de Pádua, CD \n(Na Oitava)"
+  },
+  "2024-06-14T00:00:00.000Z": {
+    "day": "2024-06-14T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSão Basílio Magno, BCD (Oitava do Sagrado Coração de Jesus)"
+  },
+  "2024-06-15T00:00:00.000Z": {
+    "day": "2024-06-15T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Sábado de Nossa Senhora \n(São Vito de Lucânia e comp., Mártires)"
+  },
+  "2024-06-16T00:00:00.000Z": {
+    "day": "2024-06-16T00:00:00.000Z",
+    "color": "Verde",
+    "info": "IV Domingo depois de Pentecostes"
+  },
+  "2024-06-17T00:00:00.000Z": {
+    "day": "2024-06-17T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Dia Ferial"
+  },
+  "2024-06-18T00:00:00.000Z": {
+    "day": "2024-06-18T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santo Efrém de Síria, CD \n(Santos. Marcos e Marceliano, Mártires)"
+  },
+  "2024-06-19T00:00:00.000Z": {
+    "day": "2024-06-19T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Juliana Falconieri, Virgem \n(Santos. Gervásio e Protásio, Mártires)"
+  },
+  "2024-06-20T00:00:00.000Z": {
+    "day": "2024-06-20T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Silverio, Papa e Mártir"
+  },
+  "2024-06-21T00:00:00.000Z": {
+    "day": "2024-06-21T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSão Luís Gonzaga, Confessor"
+  },
+  "2024-06-22T00:00:00.000Z": {
+    "day": "2024-06-22T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Paulino de Nola, BC (Vigília da Natividade de São João Baptista)"
+  },
+  "2024-06-23T00:00:00.000Z": {
+    "day": "2024-06-23T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Virgem Domingo depois de Pentecostes"
+  },
+  "2024-06-24T00:00:00.000Z": {
+    "day": "2024-06-24T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Natividade de São João Baptista"
+  },
+  "2024-06-25T00:00:00.000Z": {
+    "day": "2024-06-25T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Guilherme de Vercelli, Abade \n(Na Oitava)"
+  },
+  "2024-06-26T00:00:00.000Z": {
+    "day": "2024-06-26T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santos. João e Paulo, Mártires \n(Na Oitava)"
+  },
+  "2024-06-27T00:00:00.000Z": {
+    "day": "2024-06-27T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-06-28T00:00:00.000Z": {
+    "day": "2024-06-28T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Abstinência\nSanto Irineu, Bispo e Mártir \n(Na Oitava) (Vigília dos Santos. Apóstolos Pedro e Paulo)"
+  },
+  "2024-06-29T00:00:00.000Z": {
+    "day": "2024-06-29T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santos Apóstolos Pedro e Paulo"
+  },
+  "2024-06-30T00:00:00.000Z": {
+    "day": "2024-06-30T00:00:00.000Z",
+    "color": "Verde",
+    "info": "VI Domingo depois de Pentecostes \n(Comemoração de São Paulo, Apóstolo) \n(Na Oitava) \n(São Pedro, Apóstolo)"
+  },
+  "2024-07-01T00:00:00.000Z": {
+    "day": "2024-07-01T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "O Preciosíssimo Sangue de NSJC (Oitava da Natividade de São João Baptista)"
+  },
+  "2024-07-02T00:00:00.000Z": {
+    "day": "2024-07-02T00:00:00.000Z",
+    "color": "Branco",
+    "info": "A Visitação da Sma. Virgem Maria \n(Santos. Processo e Martiniano, Mártires)"
+  },
+  "2024-07-03T00:00:00.000Z": {
+    "day": "2024-07-03T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Leão II, PC"
+  },
+  "2024-07-04T00:00:00.000Z": {
+    "day": "2024-07-04T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Dia Ferial"
+  },
+  "2024-07-05T00:00:00.000Z": {
+    "day": "2024-07-05T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeira Sexta-feira\nAbstinência\nSanto António Maria Zacarias, Confessor"
+  },
+  "2024-07-06T00:00:00.000Z": {
+    "day": "2024-07-06T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Primeiro Sábado\nOitava dos Santos Apóstolos Pedro e Paulo"
+  },
+  "2024-07-07T00:00:00.000Z": {
+    "day": "2024-07-07T00:00:00.000Z",
+    "color": "Verde",
+    "info": "VII Domingo depois de Pentecostes \n(Santos. Cirilo, BC, e Metódio, BC)"
+  },
+  "2024-07-08T00:00:00.000Z": {
+    "day": "2024-07-08T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Isabel, Rainha de Portugal, Viúva"
+  },
+  "2024-07-09T00:00:00.000Z": {
+    "day": "2024-07-09T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Dia Ferial"
+  },
+  "2024-07-10T00:00:00.000Z": {
+    "day": "2024-07-10T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Os Sete Santos Irmãos, Mártires \n(Santas Rufina e Segunda, VVirgem e Mártirm)"
+  },
+  "2024-07-11T00:00:00.000Z": {
+    "day": "2024-07-11T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Pio I, Papa e Mártir"
+  },
+  "2024-07-12T00:00:00.000Z": {
+    "day": "2024-07-12T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSão João Gualberto, Abade \n(Santos. Nabor e Félix, Mártires)"
+  },
+  "2024-07-13T00:00:00.000Z": {
+    "day": "2024-07-13T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santo Anacleto, Papa e Mártir"
+  },
+  "2024-07-14T00:00:00.000Z": {
+    "day": "2024-07-14T00:00:00.000Z",
+    "color": "Verde",
+    "info": "VIII Domingo depois de Pentecostes (São Boaventura de Bagnoregio, BCD)"
+  },
+  "2024-07-15T00:00:00.000Z": {
+    "day": "2024-07-15T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santo Henrique II, imperador germânico, Confessor"
+  },
+  "2024-07-16T00:00:00.000Z": {
+    "day": "2024-07-16T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Nossa Senhora do Monte Camelo"
+  },
+  "2024-07-17T00:00:00.000Z": {
+    "day": "2024-07-17T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santo Aleixo de Roma, Confessor"
+  },
+  "2024-07-18T00:00:00.000Z": {
+    "day": "2024-07-18T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Camilo de Lelis, Confessor (Santa Sinforosa e os seus sete filhos, Mártires)"
+  },
+  "2024-07-19T00:00:00.000Z": {
+    "day": "2024-07-19T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSão Vicente de Paulo, Confessor"
+  },
+  "2024-07-20T00:00:00.000Z": {
+    "day": "2024-07-20T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Jerónimo Emiliano, Confessor \n(Santa Margarida de Antioquia, Virgem e Mártir)"
+  },
+  "2024-07-21T00:00:00.000Z": {
+    "day": "2024-07-21T00:00:00.000Z",
+    "color": "Verde",
+    "info": "IX Domingo depois de Pentecostes \n(Santa Praxedes, Virgem)"
+  },
+  "2024-07-22T00:00:00.000Z": {
+    "day": "2024-07-22T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Maria Madalena, penitente"
+  },
+  "2024-07-23T00:00:00.000Z": {
+    "day": "2024-07-23T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santo Apolinário de Ravena, Bispo e Mártir \n(São Libório, BC)"
+  },
+  "2024-07-24T00:00:00.000Z": {
+    "day": "2024-07-24T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Vigília de São Tiago Apóstolo \n(Santa Cristina, Virgem e Mártir)"
+  },
+  "2024-07-25T00:00:00.000Z": {
+    "day": "2024-07-25T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Tiago Maior, Apóstolo \n(São Cristóvão, Mártir)"
+  },
+  "2024-07-26T00:00:00.000Z": {
+    "day": "2024-07-26T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSanta Ana, Mãe da Santa Virgem Maria, Viúva"
+  },
+  "2024-07-27T00:00:00.000Z": {
+    "day": "2024-07-27T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Sábado de Nossa Senhora \n(São Pantaleão, Mártir)"
+  },
+  "2024-07-28T00:00:00.000Z": {
+    "day": "2024-07-28T00:00:00.000Z",
+    "color": "Verde",
+    "info": "X Domingo depois de Pentecostes \n(Santos. Nazários e comp., Mártires)"
+  },
+  "2024-07-29T00:00:00.000Z": {
+    "day": "2024-07-29T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Marta, Virgem \n(São Félix II e comp., Mártires)"
+  },
+  "2024-07-30T00:00:00.000Z": {
+    "day": "2024-07-30T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santos. Abdão e Sénnen, Mártires"
+  },
+  "2024-07-31T00:00:00.000Z": {
+    "day": "2024-07-31T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santo Inácio de Loyola, Confessor"
+  },
+  "2024-08-01T00:00:00.000Z": {
+    "day": "2024-08-01T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Pedro Apóstolo Encadeado \n(São Paulo, Apóstolo) \n(Santos Macabeus, Mártires)"
+  },
+  "2024-08-02T00:00:00.000Z": {
+    "day": "2024-08-02T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeira Sexta-feira\nAbstinência\nSanto Afonso Maria de Ligório, BCD \n(Santo Estevão I, Papa e Mártir)"
+  },
+  "2024-08-03T00:00:00.000Z": {
+    "day": "2024-08-03T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Primeiro Sábado\nA Invenção do corpo do Primeiro Mártir Santo Estevão"
+  },
+  "2024-08-04T00:00:00.000Z": {
+    "day": "2024-08-04T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XI Domingo depois de Pentecostes \n(São Domingos de Gusmão, Confessor)"
+  },
+  "2024-08-05T00:00:00.000Z": {
+    "day": "2024-08-05T00:00:00.000Z",
+    "color": "Branco",
+    "info": "A Dedicação da Basílica de Santa Maria das Neves"
+  },
+  "2024-08-06T00:00:00.000Z": {
+    "day": "2024-08-06T00:00:00.000Z",
+    "color": "Branco",
+    "info": "A Transfiguração de NSJC \n(São Sixto II, Papa, e comp., Mártires)"
+  },
+  "2024-08-07T00:00:00.000Z": {
+    "day": "2024-08-07T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Caetano de Thiene, Confessor \n(São Donato, Bispo e Mártir)"
+  },
+  "2024-08-08T00:00:00.000Z": {
+    "day": "2024-08-08T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Ciríaco e comp., Mártires"
+  },
+  "2024-08-09T00:00:00.000Z": {
+    "day": "2024-08-09T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSão João Maria Vianney, Confessor \n(Vigília de São Lourenço) \n(São Romão de Roma, Mártir)"
+  },
+  "2024-08-10T00:00:00.000Z": {
+    "day": "2024-08-10T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Lourenço Arcediano, Mártir"
+  },
+  "2024-08-11T00:00:00.000Z": {
+    "day": "2024-08-11T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XII Domingo depois de Pentecostes \n(Santos. Tibúrcio, Mártir, e Susana, Virgem e Mártir)"
+  },
+  "2024-08-12T00:00:00.000Z": {
+    "day": "2024-08-12T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Clara, Virgem"
+  },
+  "2024-08-13T00:00:00.000Z": {
+    "day": "2024-08-13T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santos. Hipólito e Cassiano, Mártires"
+  },
+  "2024-08-14T00:00:00.000Z": {
+    "day": "2024-08-14T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Vigília da Assunção \n(Santo Eusébio, Confessor)"
+  },
+  "2024-08-15T00:00:00.000Z": {
+    "day": "2024-08-15T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia Santo de Guarda\nAssunção da Santíssima Virgem Maria"
+  },
+  "2024-08-16T00:00:00.000Z": {
+    "day": "2024-08-16T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSão Joaquim, pai da Santíssima Virgem Maria, Confessor"
+  },
+  "2024-08-17T00:00:00.000Z": {
+    "day": "2024-08-17T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Jacinto de Cracóvia, Confessor \n(Oitava de São Lourenço) \n(Na Oitava)"
+  },
+  "2024-08-18T00:00:00.000Z": {
+    "day": "2024-08-18T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XIII Domingo depois de Pentecostes \n(Na Oitava) \n(Santo Agápito, Mártir)"
+  },
+  "2024-08-19T00:00:00.000Z": {
+    "day": "2024-08-19T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São João Eudes, Confessor \n(Na Oitava)"
+  },
+  "2024-08-20T00:00:00.000Z": {
+    "day": "2024-08-20T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Bernardo, AbD \n(Na Oitava)"
+  },
+  "2024-08-21T00:00:00.000Z": {
+    "day": "2024-08-21T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Joana Francisca de Chantal, Viúva \n(Na Oitava)"
+  },
+  "2024-08-22T00:00:00.000Z": {
+    "day": "2024-08-22T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Coração Imaculado de Maria \n(São Timóteo e comp., Mártires)"
+  },
+  "2024-08-23T00:00:00.000Z": {
+    "day": "2024-08-23T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSão Filipe Benício, Confessor \n(Vigília de São Bartolomeu Apóstolo)"
+  },
+  "2024-08-24T00:00:00.000Z": {
+    "day": "2024-08-24T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Bartolomeu, Apóstolo"
+  },
+  "2024-08-25T00:00:00.000Z": {
+    "day": "2024-08-25T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XIV Domingo depois de Pentecostes \n(São Luís IX, rei de França, Confessor)"
+  },
+  "2024-08-26T00:00:00.000Z": {
+    "day": "2024-08-26T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Zeferino, Papa e Mártir"
+  },
+  "2024-08-27T00:00:00.000Z": {
+    "day": "2024-08-27T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São José Calasanz, Confessor"
+  },
+  "2024-08-28T00:00:00.000Z": {
+    "day": "2024-08-28T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santo Agostinho de Hipona, BCD \n(São Hermes, Mártir)"
+  },
+  "2024-08-29T00:00:00.000Z": {
+    "day": "2024-08-29T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "A Degolação de São João Baptista \n(Santa Sabina, Mártir)"
+  },
+  "2024-08-30T00:00:00.000Z": {
+    "day": "2024-08-30T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSanta Rosa Lima, Virgem \n(Santos. Félix e Adauto, Mártires)"
+  },
+  "2024-08-31T00:00:00.000Z": {
+    "day": "2024-08-31T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Raimundo Nonato, Confessor"
+  },
+  "2024-09-01T00:00:00.000Z": {
+    "day": "2024-09-01T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XV Domingo depois de Pentecostes \n(Santo Egídio, Abade) \n(Os Doze Santos Irmãos, Mártires)"
+  },
+  "2024-09-02T00:00:00.000Z": {
+    "day": "2024-09-02T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santo Estevão, rei da Hungria, Confessor"
+  },
+  "2024-09-03T00:00:00.000Z": {
+    "day": "2024-09-03T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Pio X, PC"
+  },
+  "2024-09-04T00:00:00.000Z": {
+    "day": "2024-09-04T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Dia Ferial"
+  },
+  "2024-09-05T00:00:00.000Z": {
+    "day": "2024-09-05T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Lourenço Justiniano, BC"
+  },
+  "2024-09-06T00:00:00.000Z": {
+    "day": "2024-09-06T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Primeira Sexta-feira\nAbstinência\nDia Ferial"
+  },
+  "2024-09-07T00:00:00.000Z": {
+    "day": "2024-09-07T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeiro Sábado\nSábado de Nossa Senhora"
+  },
+  "2024-09-08T00:00:00.000Z": {
+    "day": "2024-09-08T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Nascimento da Santa Virgem Maria (XVI Domingo depois de Pentecostes) \n(Santo Adriano, Mártir)"
+  },
+  "2024-09-09T00:00:00.000Z": {
+    "day": "2024-09-09T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Pedro Claver, Confessor \n(São Gorgonho, Mártir)"
+  },
+  "2024-09-10T00:00:00.000Z": {
+    "day": "2024-09-10T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Nicolau de Tolentino, Confessor"
+  },
+  "2024-09-11T00:00:00.000Z": {
+    "day": "2024-09-11T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santos. Proto e Jacinto, Mártires"
+  },
+  "2024-09-12T00:00:00.000Z": {
+    "day": "2024-09-12T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santíssimo Nome de Maria"
+  },
+  "2024-09-13T00:00:00.000Z": {
+    "day": "2024-09-13T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Abstinência\n\nDia Ferial"
+  },
+  "2024-09-14T00:00:00.000Z": {
+    "day": "2024-09-14T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "A Exaltação da Santa Cruz"
+  },
+  "2024-09-15T00:00:00.000Z": {
+    "day": "2024-09-15T00:00:00.000Z",
+    "color": "Branco",
+    "info": "As Sete Dores da Santa Virgem Maria (XVII Domingo depois de Pentecostes) \n(São Nicomedes, Mártir)"
+  },
+  "2024-09-16T00:00:00.000Z": {
+    "day": "2024-09-16T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santos. Cornélio, Papa, e Cipriano, BMm \n(Santa Eufémia, Virgem, e comp., Mártires)"
+  },
+  "2024-09-17T00:00:00.000Z": {
+    "day": "2024-09-17T00:00:00.000Z",
+    "color": "Branco",
+    "info": "A Impressão das Chagas de São Francisco de Assis"
+  },
+  "2024-09-18T00:00:00.000Z": {
+    "day": "2024-09-18T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia de Jejum\nAbstinência\nQuarta de Têmporas\nSão José de Cupertino, Confessor"
+  },
+  "2024-09-19T00:00:00.000Z": {
+    "day": "2024-09-19T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Januário, Bispo, e comp., Mártires"
+  },
+  "2024-09-20T00:00:00.000Z": {
+    "day": "2024-09-20T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Dia de Jejum\nAbstinência\nSexta de Têmporas\nSanto Eustáquio e comp., Mártires \n(Vigília de São Mateus)"
+  },
+  "2024-09-21T00:00:00.000Z": {
+    "day": "2024-09-21T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Dia de Jejum\nAbstinência\nSábado de Têmporas\nSão Mateus, Apóstolo e Evangelista"
+  },
+  "2024-09-22T00:00:00.000Z": {
+    "day": "2024-09-22T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XVIII Domingo depois de Pentecostes \n(São Tomás de Vilanova, BC) \n(São Maurício e comp., Mártires)"
+  },
+  "2024-09-23T00:00:00.000Z": {
+    "day": "2024-09-23T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Lino, Papa e Mártir \n(Santa Tecla, Virgem e Mártir)"
+  },
+  "2024-09-24T00:00:00.000Z": {
+    "day": "2024-09-24T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Nossa Senhora das Mercês"
+  },
+  "2024-09-25T00:00:00.000Z": {
+    "day": "2024-09-25T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Dia Ferial"
+  },
+  "2024-09-26T00:00:00.000Z": {
+    "day": "2024-09-26T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santo Isaque Jogues e comp., Mártires \n(Santos. Cipriano e Justina, Mártires)"
+  },
+  "2024-09-27T00:00:00.000Z": {
+    "day": "2024-09-27T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Abstinência\nSantos. Cosme e Damião, Mártires"
+  },
+  "2024-09-28T00:00:00.000Z": {
+    "day": "2024-09-28T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Venceslau, Mártir"
+  },
+  "2024-09-29T00:00:00.000Z": {
+    "day": "2024-09-29T00:00:00.000Z",
+    "color": "Branco",
+    "info": "A Dedicação a São Miguel Arcanjo (XIX Domingo depois de Pentecostes)"
+  },
+  "2024-09-30T00:00:00.000Z": {
+    "day": "2024-09-30T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Jerónimo, CD"
+  },
+  "2024-10-01T00:00:00.000Z": {
+    "day": "2024-10-01T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Remígio de Reims, BC"
+  },
+  "2024-10-02T00:00:00.000Z": {
+    "day": "2024-10-02T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Os Santos Anjos da Guarda"
+  },
+  "2024-10-03T00:00:00.000Z": {
+    "day": "2024-10-03T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Teresa do Menino Jesus, Virgem"
+  },
+  "2024-10-04T00:00:00.000Z": {
+    "day": "2024-10-04T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeira Sexta-feira\nAbstinência\nSão Francisco de Assis, Confessor"
+  },
+  "2024-10-05T00:00:00.000Z": {
+    "day": "2024-10-05T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeiro Sábado\nSábado de Nossa Senhora \n(São Plácido e comp., Mártires)"
+  },
+  "2024-10-06T00:00:00.000Z": {
+    "day": "2024-10-06T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XX Domingo depois de Pentecostes \n(São Bruno de Colônia, Confessor)"
+  },
+  "2024-10-07T00:00:00.000Z": {
+    "day": "2024-10-07T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Festa do Santíssimo Rosário da Santa Virgem Maria \n(São Marcos, PC) \n(São Sérgio e comp., Mártires)"
+  },
+  "2024-10-08T00:00:00.000Z": {
+    "day": "2024-10-08T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Brígida da Suécia, Viúva"
+  },
+  "2024-10-09T00:00:00.000Z": {
+    "day": "2024-10-09T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São João Leonardo, Confessor \n(São Dionísio, Bispo e comp., Mártires)"
+  },
+  "2024-10-10T00:00:00.000Z": {
+    "day": "2024-10-10T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Francisco de Bórgia, Confessor"
+  },
+  "2024-10-11T00:00:00.000Z": {
+    "day": "2024-10-11T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nA Maternidade da Santíssima Virgem Maria"
+  },
+  "2024-10-12T00:00:00.000Z": {
+    "day": "2024-10-12T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Sábado de Nossa Senhora \n(Nossa Senhora de Aparecida)"
+  },
+  "2024-10-13T00:00:00.000Z": {
+    "day": "2024-10-13T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XXI Domingo depois de Pentecostes (São Eduardo, Rei da Inglaterra, Confessor)"
+  },
+  "2024-10-14T00:00:00.000Z": {
+    "day": "2024-10-14T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Calisto I, Papa e Mártir"
+  },
+  "2024-10-15T00:00:00.000Z": {
+    "day": "2024-10-15T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Teresa de Ávila, Virgem"
+  },
+  "2024-10-16T00:00:00.000Z": {
+    "day": "2024-10-16T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Edviges da Silésia, Viúva"
+  },
+  "2024-10-17T00:00:00.000Z": {
+    "day": "2024-10-17T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Margarida Maria Alacoque, Virgem"
+  },
+  "2024-10-18T00:00:00.000Z": {
+    "day": "2024-10-18T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Abstinência\nSão Lucas, Evangelista"
+  },
+  "2024-10-19T00:00:00.000Z": {
+    "day": "2024-10-19T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Pedro de Alcântara, Confessor"
+  },
+  "2024-10-20T00:00:00.000Z": {
+    "day": "2024-10-20T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XXII Domingo depois de Pentecostes \n(São João Câncio, Confessor)"
+  },
+  "2024-10-21T00:00:00.000Z": {
+    "day": "2024-10-21T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santo Hilarion de Gaza, Abade \n(Santa Úrsula e comp., VVirgem e Mártirm)"
+  },
+  "2024-10-22T00:00:00.000Z": {
+    "day": "2024-10-22T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Dia Ferial"
+  },
+  "2024-10-23T00:00:00.000Z": {
+    "day": "2024-10-23T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Dia Ferial"
+  },
+  "2024-10-24T00:00:00.000Z": {
+    "day": "2024-10-24T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Rafael Arcanjo"
+  },
+  "2024-10-25T00:00:00.000Z": {
+    "day": "2024-10-25T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Abstinência\nSantos. Crisanto e Dária, Mártires"
+  },
+  "2024-10-26T00:00:00.000Z": {
+    "day": "2024-10-26T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Vigília dos Santos. Apóstolos Simão e Judas Tadeu \n(Santo Evaristo, Papa e Mártir)"
+  },
+  "2024-10-27T00:00:00.000Z": {
+    "day": "2024-10-27T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Festa de Cristo Rei (XXIII Domingo depois de Pentecostes)"
+  },
+  "2024-10-28T00:00:00.000Z": {
+    "day": "2024-10-28T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santos. Apóstolos Simão Cananeu e Judas Tadeu"
+  },
+  "2024-10-29T00:00:00.000Z": {
+    "day": "2024-10-29T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Dia Ferial"
+  },
+  "2024-10-30T00:00:00.000Z": {
+    "day": "2024-10-30T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Dia Ferial"
+  },
+  "2024-10-31T00:00:00.000Z": {
+    "day": "2024-10-31T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nAbstinência\nVigília de Todos os Santos"
+  },
+  "2024-11-01T00:00:00.000Z": {
+    "day": "2024-11-01T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia Santo de Guarda\nPrimeira Sexta-feira\nDia de Todos os Santos"
+  },
+  "2024-11-02T00:00:00.000Z": {
+    "day": "2024-11-02T00:00:00.000Z",
+    "color": "Negro",
+    "info": "Primeiro Sábado\nDia dos Fiéis Defuntos"
+  },
+  "2024-11-03T00:00:00.000Z": {
+    "day": "2024-11-03T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XXIV Domingo depois de Pentecostes (Domingo na Oitava do Dia de Todos os Santos)"
+  },
+  "2024-11-04T00:00:00.000Z": {
+    "day": "2024-11-04T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Carlos Borromeu, BC \n(Na Oitava) \n(Santos. Vidal e Agrícola, Mártires)"
+  },
+  "2024-11-05T00:00:00.000Z": {
+    "day": "2024-11-05T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-11-06T00:00:00.000Z": {
+    "day": "2024-11-06T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-11-07T00:00:00.000Z": {
+    "day": "2024-11-07T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-11-08T00:00:00.000Z": {
+    "day": "2024-11-08T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nOitava do Dia de Todos os Santos \n(Quatro Mártires Coroados)"
+  },
+  "2024-11-09T00:00:00.000Z": {
+    "day": "2024-11-09T00:00:00.000Z",
+    "color": "Branco",
+    "info": "A Dedicação da Basílica do Santíssimo Salvador \n(São Teodoro, Mártir)"
+  },
+  "2024-11-10T00:00:00.000Z": {
+    "day": "2024-11-10T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XXV Domingo depois de Pentecostes \n(Santo André Avelino, Confessor) \n(Santos. Trifão e comp., Mártires)"
+  },
+  "2024-11-11T00:00:00.000Z": {
+    "day": "2024-11-11T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Martinho de Tours, BC \n(São Menas, Mártir)"
+  },
+  "2024-11-12T00:00:00.000Z": {
+    "day": "2024-11-12T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Martinho I, Papa e Mártir"
+  },
+  "2024-11-13T00:00:00.000Z": {
+    "day": "2024-11-13T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Diego de Alcalá, Confessor"
+  },
+  "2024-11-14T00:00:00.000Z": {
+    "day": "2024-11-14T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Josafá Kuntsevytch, Bispo e Mártir"
+  },
+  "2024-11-15T00:00:00.000Z": {
+    "day": "2024-11-15T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSanto Alberto Magno, BCD"
+  },
+  "2024-11-16T00:00:00.000Z": {
+    "day": "2024-11-16T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Gertrudes, abadessa, Virgem"
+  },
+  "2024-11-17T00:00:00.000Z": {
+    "day": "2024-11-17T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XXVI Domingo depois de Pentecostes \n(São Gregório Taumaturgo, BC)"
+  },
+  "2024-11-18T00:00:00.000Z": {
+    "day": "2024-11-18T00:00:00.000Z",
+    "color": "Branco",
+    "info": "A Dedicação das Basílicas dos Santos. Apóstolos Pedro e Paulo"
+  },
+  "2024-11-19T00:00:00.000Z": {
+    "day": "2024-11-19T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Isabel da Hungria, Viúva \n(São Ponciano, Papa e Mártir)"
+  },
+  "2024-11-20T00:00:00.000Z": {
+    "day": "2024-11-20T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Félix de Valois, Confessor"
+  },
+  "2024-11-21T00:00:00.000Z": {
+    "day": "2024-11-21T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Apresentação da Santíssima Virgem Maria"
+  },
+  "2024-11-22T00:00:00.000Z": {
+    "day": "2024-11-22T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Abstinência\nSanta Cecília, Virgem e Mártir"
+  },
+  "2024-11-23T00:00:00.000Z": {
+    "day": "2024-11-23T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "São Clemente I, Papa e Mártir \n(Santa Felicidade, Mártir)"
+  },
+  "2024-11-24T00:00:00.000Z": {
+    "day": "2024-11-24T00:00:00.000Z",
+    "color": "Verde",
+    "info": "XXVII Domingo depois de Pentecostes \n(São João da Cruz, CD) \n(São Crisógono, Mártir)"
+  },
+  "2024-11-25T00:00:00.000Z": {
+    "day": "2024-11-25T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santa Catarina de Alexandria, Virgem e Mártir"
+  },
+  "2024-11-26T00:00:00.000Z": {
+    "day": "2024-11-26T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Silvestre, Abade \n(São Pedro de Alexandria, Bispo e Mártir)"
+  },
+  "2024-11-27T00:00:00.000Z": {
+    "day": "2024-11-27T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Dia Ferial"
+  },
+  "2024-11-28T00:00:00.000Z": {
+    "day": "2024-11-28T00:00:00.000Z",
+    "color": "Verde",
+    "info": "Dia Ferial"
+  },
+  "2024-11-29T00:00:00.000Z": {
+    "day": "2024-11-29T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Abstinência\nVigília de Santo André \n(São Saturnino, Mártir)"
+  },
+  "2024-11-30T00:00:00.000Z": {
+    "day": "2024-11-30T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santo André, Apóstolo"
+  },
+  "2024-12-01T00:00:00.000Z": {
+    "day": "2024-12-01T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "I Domingo de Advento"
+  },
+  "2024-12-02T00:00:00.000Z": {
+    "day": "2024-12-02T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santa Viviana, Virgem e Mártir"
+  },
+  "2024-12-03T00:00:00.000Z": {
+    "day": "2024-12-03T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Francisco Xavier, Confessor"
+  },
+  "2024-12-04T00:00:00.000Z": {
+    "day": "2024-12-04T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Pedro Crisólogo, BCD \n(Santa Bárbara, Virgem e Mártir)"
+  },
+  "2024-12-05T00:00:00.000Z": {
+    "day": "2024-12-05T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia Ferial \n(São Sabas, Abade)"
+  },
+  "2024-12-06T00:00:00.000Z": {
+    "day": "2024-12-06T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeira Sexta-feira\nAbstinência\nSão Nicolau de Mira, BC"
+  },
+  "2024-12-07T00:00:00.000Z": {
+    "day": "2024-12-07T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Primeiro Sábado\nAbstinência\nDia de Jejum\nSanto Ambrósio de Milão, BCD \n(Vigília da Imaculada Conceição de Maria)"
+  },
+  "2024-12-08T00:00:00.000Z": {
+    "day": "2024-12-08T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia Santo de Guarda\nImaculada Conceição da Santa Virgem Maria"
+  },
+  "2024-12-09T00:00:00.000Z": {
+    "day": "2024-12-09T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-12-10T00:00:00.000Z": {
+    "day": "2024-12-10T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava \n(São Melquiades, Papa e Mártir)"
+  },
+  "2024-12-11T00:00:00.000Z": {
+    "day": "2024-12-11T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Dâmaso I, PC \n(Na Oitava)"
+  },
+  "2024-12-12T00:00:00.000Z": {
+    "day": "2024-12-12T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-12-13T00:00:00.000Z": {
+    "day": "2024-12-13T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Abstinência\nSanta Lúcia, Virgem e Mártir \n(Na Oitava)"
+  },
+  "2024-12-14T00:00:00.000Z": {
+    "day": "2024-12-14T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-12-15T00:00:00.000Z": {
+    "day": "2024-12-15T00:00:00.000Z",
+    "color": "Roxo (Rosa)",
+    "info": "III Domingo de Advento (Oitava da Imaculada Conceição da Santa Virgem Maria) \n(Domingo de Gaudete)"
+  },
+  "2024-12-16T00:00:00.000Z": {
+    "day": "2024-12-16T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santo Eusébio de Vercelli, Bispo e Mártir"
+  },
+  "2024-12-17T00:00:00.000Z": {
+    "day": "2024-12-17T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia Ferial"
+  },
+  "2024-12-18T00:00:00.000Z": {
+    "day": "2024-12-18T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nAbstinência\nQuarta de Têmporas\nDia Ferial"
+  },
+  "2024-12-19T00:00:00.000Z": {
+    "day": "2024-12-19T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia Ferial"
+  },
+  "2024-12-20T00:00:00.000Z": {
+    "day": "2024-12-20T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nAbstinência\nSexta de Têmporas\nVigília de São Tomé Apóstolo"
+  },
+  "2024-12-21T00:00:00.000Z": {
+    "day": "2024-12-21T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Dia de Jejum\nAbstinência\nSábado de Têmporas\nSão Tomé, Apóstolo"
+  },
+  "2024-12-22T00:00:00.000Z": {
+    "day": "2024-12-22T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "IV Domingo de Advento"
+  },
+  "2024-12-23T00:00:00.000Z": {
+    "day": "2024-12-23T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Santa Francisca Xavier Cabrini, Virgem"
+  },
+  "2024-12-24T00:00:00.000Z": {
+    "day": "2024-12-24T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Dia de Jejum\nAbstinência\nVigília de Natal do Senhor"
+  },
+  "2024-12-25T00:00:00.000Z": {
+    "day": "2024-12-25T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Dia Santo de Guarda\nO Natal do Senhor \n(Santa Anastásia, Mártir)"
+  },
+  "2024-12-26T00:00:00.000Z": {
+    "day": "2024-12-26T00:00:00.000Z",
+    "color": "Vermelho",
+    "info": "Santo Estevão, o primeiro mártir \n(Na Oitava)"
+  },
+  "2024-12-27T00:00:00.000Z": {
+    "day": "2024-12-27T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Abstinência\nSão João, Apóstolo e Evangelista \n(Na Oitava)"
+  },
+  "2024-12-28T00:00:00.000Z": {
+    "day": "2024-12-28T00:00:00.000Z",
+    "color": "Roxo",
+    "info": "Santos Inocentes, Mártires \n(Na Oitava)"
+  },
+  "2024-12-29T00:00:00.000Z": {
+    "day": "2024-12-29T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Domingo na Oitava do Natal do Senhor \n(São Tomás de Canterbúria, Bispo e Mártir)"
+  },
+  "2024-12-30T00:00:00.000Z": {
+    "day": "2024-12-30T00:00:00.000Z",
+    "color": "Branco",
+    "info": "Na Oitava"
+  },
+  "2024-12-31T00:00:00.000Z": {
+    "day": "2024-12-31T00:00:00.000Z",
+    "color": "Branco",
+    "info": "São Silvestre I, PC \n(Na Oitava)"
+  }
+}
